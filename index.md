@@ -13,7 +13,7 @@
 - shores
 
 ---
- # Orden de prioridad 
+# Orden de prioridad 
  1. shores
  2. medias
  3. tacos
