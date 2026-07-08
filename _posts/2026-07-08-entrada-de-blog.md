@@ -1,5 +1,5 @@
 ---
-title: "entrada-de-blog"
+title: "Mi primer Blog"
 date: 2026-07-08
 ---
 
