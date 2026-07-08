@@ -1,5 +1,5 @@
 ---
-## title: Saludos Cordiales en este blog!
+title: Saludos Cordiales en este blog!
 ---
 - [ ] eres futbolero
 - [ ] beisbolista
